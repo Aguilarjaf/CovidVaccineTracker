@@ -1,0 +1,22 @@
+{
+  "name": "aguilarjaf.github.io",
+  "version": "1.0.0",
+  "description": "A Covid-19 vaccine tracker.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aguilarjaf/aguilarjaf.github.io.git"
+  },
+  "author": "Jorge Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aguilarjaf/aguilarjaf.github.io/issues"
+  },
+  "homepage": "https://github.com/Aguilarjaf/aguilarjaf.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
